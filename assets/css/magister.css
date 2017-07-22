@@ -116,7 +116,7 @@ body {
 	top:0;
 } 
 @media (min-width: 768px) {
-	.section { padding-top:60px;}
+	.section { padding-top:50px;}
 }
 
 /* Show one of sections */
